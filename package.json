@@ -2,7 +2,7 @@
   "name": "practica-hooks-react",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://marcelobrgs.github.io/form-hook",
+  "homepage": "https://marcelobrgs.github.io/form",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
